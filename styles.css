@@ -1,0 +1,35 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    color:black;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Times New Roman";
+}
+.color1, .color2, .color3{
+    font-weight: 800;
+    font-size: 24px;
+}
+.color1 {
+    color: red;
+    
+}
+.color2{
+    color:blue;
+}
+.color3{
+    color:green;
+}
+
+#cb, #as{
+    height: auto;
+    width: 150px;  
+
+}
+#mpb{
+    height: 150px;
+    width: auto;
+}
+
+
